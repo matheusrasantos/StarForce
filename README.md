@@ -5,14 +5,14 @@
 
 StarForce é um jogo 2D de nave com história de herói, voltado para dispositivos mobile. O jogo utiliza a engine Unity e foi desenvolvido pelos seguintes membros do grupo:
 
-    Gerente de Projetos: Matheus Rodrigues
-    Arquitetos de Software: Lana Ribeiro e Rodrigo Souza
-    Desenvolvedor GameDesign: Lana Ribeiro
-    Desenvolvedores Back-end: Rodrigo Souza e Alvaro Richard
-    DBA: Rodrigo Souza e Alvaro Richard
-    QA: Matheus 
+    <b>Gerente de Projetos: Matheus Rodrigues</b>
+    <b>Arquitetos de Software: Lana Ribeiro e Rodrigo Souza</b>
+    <b>Desenvolvedor GameDesign: Lana Ribeiro</b>
+    <b>Desenvolvedores Back-end: Rodrigo Souza e Alvaro Richard</b>
+    <b>DBA: Rodrigo Souza e Alvaro Richard</b>
+    <b>QA: Matheus Rodrigues</b>
 
-<h1>Descrição do Projeto</h1>
+<b><h1>Descrição do Projeto</h1></b>
 
 O jogo StarForce é um jogo 2D de nave que conta a história de um herói. O objetivo do jogo é pilotar a nave pelo espaço, desviar dos obstáculos e inimigos, e chegar o mais longe possível para acumular a maior pontuação.
 
@@ -42,10 +42,11 @@ Para compilar e executar o jogo, siga as instruções abaixo:
     Clique no botão "Build" para compilar o jogo.
     Execute o jogo a partir do arquivo gerado.
 
-Certifique-se de que todas as dependências do sistema estejam instaladas antes de compilar e executar o jogo. Se você encontrar algum problema durante o processo de compilação ou execução do jogo, consulte o arquivo README.md ou entre em contato com o suporte do jogo.
-Licença
+<h1>OBS</h1>
+<b>Certifique-se de que todas as dependências do sistema estejam instaladas antes de compilar e executar o jogo. Se você encontrar algum problema durante o processo de compilação ou execução do jogo, consulte o arquivo README.md ou entre em contato com o suporte do jogo.
+Licença</b>
 
-Este projeto é licenciado sob a Licença Pública Geral GNU versão 3 (GPLv3). Consulte o arquivo LICENSE.md para obter mais informações sobre os termos da licença.
+<b>Este projeto é licenciado sob a Licença Pública Geral GNU versão 3 (GPLv3). Consulte o arquivo LICENSE.md para obter mais informações sobre os termos da licença.</b>
+
 Data de Publicação
-
-Este jogo foi publicado em 05/05/2023.
+<i>Data jogo publicado (05/05/2023)</i>
